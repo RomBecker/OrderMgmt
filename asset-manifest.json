@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RomBecker/OrderMgmt/static/css/main.e6c13ad2.css",
+    "main.js": "/RomBecker/OrderMgmt/static/js/main.d15f3861.js",
+    "static/js/453.9ce601e9.chunk.js": "/RomBecker/OrderMgmt/static/js/453.9ce601e9.chunk.js",
+    "index.html": "/RomBecker/OrderMgmt/index.html",
+    "main.e6c13ad2.css.map": "/RomBecker/OrderMgmt/static/css/main.e6c13ad2.css.map",
+    "main.d15f3861.js.map": "/RomBecker/OrderMgmt/static/js/main.d15f3861.js.map",
+    "453.9ce601e9.chunk.js.map": "/RomBecker/OrderMgmt/static/js/453.9ce601e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d15f3861.js"
+  ]
+}
